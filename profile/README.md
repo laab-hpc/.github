@@ -1,7 +1,5 @@
 # LAAB-HPC
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21921183.svg)](https://doi.org/10.5281/zenodo.21921183)
-
 Linear Algebra Aware Benchmarks (LAAB) is a framework for systematically assessing and reporting the performance of mathematical library installations on HPC systems. Mathematical libraries provide interfaces for operations that form the computational building blocks of scientific applications. Reporting their performance is important for assessing application efficiency, estimating compute-time requirements, and preparing resource-allocation requests.
 
 This project contains the software components of the LAAB framework and serves as a supplement to the ongoing PhD work, "Methods for Performance Reporting of Mathematical Library Installations on HPC Systems," at RWTH Aachen University, Germany. The framework was developed to aid HPC user-support activities at the Juelich Supercomputing Centre, Forschungszentrum Juelich, Germany and, more broadly, at HPC centres in general.
