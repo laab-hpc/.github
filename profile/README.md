@@ -10,5 +10,8 @@ LAAB-HPC has several software components. Unless otherwise specified by an indiv
 
 Copyright (c) 2026 Forschungszentrum Juelich GmbH, Juelich Supercomputing Centre
 
+**Citations**:
+> Sankaran, A. LAAB-HPC. Version 2026a, Zenodo, 13 Aug. 2026, https://doi.org/10.5281/zenodo.21921183.
+
 
 
