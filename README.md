@@ -1,5 +1,7 @@
 # LAAB-HPC
 
+version: 2026a
+
 Linear Algebra Aware Benchmarks for performance reporting of mathematical library installations on HPC systems.
 
 ## Copyright and License
