@@ -6,7 +6,8 @@ This project contains the software components of the LAAB framework and serves a
 
 LAAB-HPC was developed with the support of Juelich Supercomputing Center at Forschungszentrum Juelich, Germany through the BMBF project 01-1H1-6013 AP6-NRW Anwenderunterstuetzung SiVeGCS, the eSSENCE Programme under the Swedish Government’s Strategic Research Initiative, and RWTH Aachen University, Germany through the DFG project IRTG-2379.
 
-LAAB-HPC has several software components. Unless otherwise specified by an individual component, the software components are distributed under the GNU AGPL-3.0 License. Components that specify a different license are distributed under the terms of their respective licenses.
+LAAB-HPC has several software components. Unless otherwise specified by an individual component, the software components are distributed under the GNU AGPL-3.0 License. Components derived from or incorporating third-party software retain their
+respective copyright notices and licence terms.
 
 Copyright (c) 2026 Forschungszentrum Juelich GmbH, Juelich Supercomputing Centre
 
