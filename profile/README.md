@@ -12,7 +12,7 @@ respective copyright notices and licence terms.
 Copyright (c) 2026 Forschungszentrum Juelich GmbH, Juelich Supercomputing Centre
 
 **Citations**:
-> **Paper**: Sankaran, A., and P. Bientinesi. Performance Reporting of Mathematical Library Installations with LAAB – An Overview. arXiv, 13 Aug. 2026, https://doi.org/10.48550/arXiv.2608.13512
+> **Preprint**: Sankaran, A., and P. Bientinesi. Performance Reporting of Mathematical Library Installations with LAAB – An Overview. arXiv, 13 Aug. 2026, https://doi.org/10.48550/arXiv.2608.13512
  
 > **Code**: Sankaran, A. LAAB-HPC. Version 2026a, Zenodo, 13 Aug. 2026, https://doi.org/10.5281/zenodo.21921183.
 
